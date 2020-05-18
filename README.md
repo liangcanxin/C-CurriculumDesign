@@ -1,2 +1,2 @@
 # C-CurriculumDesign
-C++ Big Homework，maybe like a simple curriculum design.
+  大三上学期期末的C++大作业，也可以理解为一个简单的课程设计，主要是实现根据不同形状的图形计算其相关的属性，比较简单，上传该程序，主要是为了方便自己后续写相关的C/C++程序，有个模板参考。
